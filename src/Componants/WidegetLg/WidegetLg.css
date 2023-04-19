@@ -1,0 +1,77 @@
+.widegetLg {
+    flex: 1;
+    box-shadow: -2px 3px 11px 1px rgba(209, 50, 50, 0.39);
+    -webkit-box-shadow: -2px 3px 11px 1px rgba(209, 50, 50, 0.39);
+    -moz-box-shadow: -2px 3px 11px 1px rgba(209, 50, 50, 0.39);
+    margin: 20px;
+    padding: 20px;
+    position: absolute;
+    top: 508px;
+    left: 665px;
+    width: 40%;
+    height: 375px;
+    border-radius: 10px;
+}
+
+.widegetimg {
+    position: relative;
+    left: 0;
+    left: -31px;
+    width: 43px;
+    border-radius: 50%;
+}
+
+.widegetLgTr {
+    margin: 0px;
+    padding: 1 px;
+}
+
+.widegetName {
+    margin-left: -25px;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    padding: 3px;
+}
+
+.wifegetBtn {
+    background-color: rgb(223, 228, 240);
+    border: none;
+    border-radius: 10px;
+    color: rgb(226, 147, 147);
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+}
+
+.widegetLgThd {
+    position: relative;
+    left: 31px;
+}
+
+.widegetLgThi {
+    position: relative;
+    left: 20px;
+}
+
+.widegetDate {
+    font-size: 15px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.widegetLgTable {
+    left: 7px;
+    padding: 6px;
+    margin: 12px;
+    margin-left: 12px;
+    margin-left: 46px;
+}
